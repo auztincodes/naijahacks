@@ -146,7 +146,55 @@
 			
 		</ul>
 	</div>
+
 	<!-- //banner -->
+	<div class="container intro_text">
+
+  <div class="row">
+  <div class="col-md-6 offset-md-3 text-center pb-4">
+    <h3 class=" my-4 heading">How It Works</h3>
+  </div>
+</div>
+</div>
+	<section class="tools_intro ">
+  <div class="container text-center pt-5 ">
+<div class="row">
+  <div class=" mb-4 col-md-4">
+    <img src="../assets/images/file.png" alt="" class="mb-4 tools-icon " />
+    <h5>
+      <strong>Find Study Group</strong>
+    </h5>
+    <p class="text-justify">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
+    </p>
+
+  </div>
+
+  <div class=" mb-4 col-md-4">
+    <img src="../assets/images/connect.png" alt="" class="mb-4 tools-icon" />
+    <h5>
+      <strong>Join a Group</strong>
+    </h5>
+    <p class="text-justify">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
+    </p>
+  </div>
+
+  <div class=" col-md-4">
+    <img src="../assets/images/chat.png" alt="" class="mb-4 tools-icon" />
+    <h5>
+      <strong>Collaborate and Learn</strong>
+    </h5>
+    <p class="text-justify">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
+    </p>
+  </div>
+</div>
+
+</div>
+</section>
+
+	
   </div>
 </template>
 
