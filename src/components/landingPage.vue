@@ -131,7 +131,7 @@
 						<div class="banner-text text-center container">
 							<h3 class="text-white mb-md-4 mb-3">Peer-Peer Collaborative Learning
 							</h3>
-							<p class="movetxt text-white mb-4">Grow your business through the top freelancing website. Hire experts from the U.S. or worldwide.</p>
+							<p class="movetxt text-white mb-4">Delivering better digital learning experiences - Create, Discover & Share relevant learning content.</p>
 							<div class="search-agile">
 								<form action="#" method="post">
 									<input type="search" name="search" placeholder="Find a study group close to you..." required="">
@@ -263,5 +263,8 @@ export default {
 .copy_right p {
     background: rgba(63, 61, 86);
     letter-spacing: 2px;
+}
+.form-group{
+	text-align: left;
 }
 </style>
