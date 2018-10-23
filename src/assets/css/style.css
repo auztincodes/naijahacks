@@ -602,10 +602,13 @@ p.movetxt {
 }
 
     
-
 .tools-icon {
   width: 60px !important;
   height: 60px !important;
+}
+.about-info {
+    background-color: #F7F7F7;
+    padding: 6%;
 }
 
 /*-- //search --*/

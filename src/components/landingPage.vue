@@ -151,41 +151,42 @@
 	<div class="container intro_text">
 
   <div class="row">
-  <div class="col-md-6 offset-md-3 text-center pb-4">
+  <div class="col-md-6 offset-md-3 text-center mt-5 pb-4">
     <h3 class=" my-4 heading">How It Works</h3>
   </div>
 </div>
 </div>
 	<section class="tools_intro ">
-  <div class="container text-center pt-5 ">
-<div class="row">
-  <div class=" mb-4 col-md-4">
+  <div class="container text-center pt-5">
+<div class="row ">
+	<div class="col-md-1"></div>
+  <div class=" mb-4 col-md-3 effect1 py-5 mx-4">
     <img src="../assets/images/file.png" alt="" class="mb-4 tools-icon " />
     <h5>
       <strong>Find Study Group</strong>
     </h5>
-    <p class="text-justify">
+    <p class="text-center">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
     </p>
 
   </div>
 
-  <div class=" mb-4 col-md-4">
+  <div class=" mb-4 col-md-3 effect1 py-5 mx-4">
     <img src="../assets/images/connect.png" alt="" class="mb-4 tools-icon" />
     <h5>
       <strong>Join a Group</strong>
     </h5>
-    <p class="text-justify">
+    <p class="text-center">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
     </p>
   </div>
 
-  <div class=" col-md-4">
+  <div class=" mb-4 col-md-3 effect1 py-5 mx-4">
     <img src="../assets/images/chat.png" alt="" class="mb-4 tools-icon" />
     <h5>
       <strong>Collaborate and Learn</strong>
     </h5>
-    <p class="text-justify">
+    <p class="text-center">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
     </p>
   </div>
@@ -194,6 +195,36 @@
 </div>
 </section>
 
+<section class="about">
+		<div class="container-fluid">
+			<div class="row">
+					<div class="col-lg-12 d-flex flex-row about-info">
+					<div class="col-lg-6">
+					<h3 class="tittle text-left mb-lg-5 mb-3">Share, work and succeed with learners just like you.</h3>
+					<p class="my-xl-4 my-lg-3 my-md-4 my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+						dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
+						book.
+					</p>
+
+					<button type="button" class="btn btn-primary btn-lg float-left">Get Started</button>
+				</div>
+				
+				<div class="col-lg-6 p-0">
+					<img src="../assets/images/undraw.png" alt="Realtie" class="img-fluid" />
+				</div>
+
+			</div>
+				
+			
+		</div>
+		</div>
+	</section>
+	<div class="copy_right">
+			<p class="text-center text-white py-sm-4 py-3">Copyright © 2018 Grudemy| All rights reserved
+			</p>
+
+		</div>
+	                            
 	
   </div>
 </template>
@@ -211,5 +242,26 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+.my-3{
+	text-align: left;
+}
+.effect1{
+	border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 10px 6px -10px #777;
+       -moz-box-shadow: 0 10px 6px -10px #777;
+            box-shadow: 0 10px 6px -10px #777;
+}
+.p-0 img{
+	width: 350px !important;
+  height: 250px !important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #5AD147;
+    border-color: #5AD147;
+}
+.copy_right p {
+    background: rgba(63, 61, 86);
+    letter-spacing: 2px;
+}
 </style>
