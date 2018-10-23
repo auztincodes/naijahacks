@@ -152,7 +152,7 @@
 
   <div class="row">
   <div class="col-md-6 offset-md-3 text-center mt-5 pb-4">
-    <h3 class=" my-4 heading">How It Works</h3>
+    <h2 class=" my-4 heading">How It Works</h2>
   </div>
 </div>
 </div>
@@ -166,7 +166,7 @@
       <strong>Find Study Group</strong>
     </h5>
     <p class="text-center">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
+      Search for study groups or creat your own close to your location where users have the same interest  as you.
     </p>
 
   </div>
@@ -177,7 +177,7 @@
       <strong>Join a Group</strong>
     </h5>
     <p class="text-center">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
+      Grudemy gives you a place to connect with other like-minded members to create and join virtual learnring spaces.
     </p>
   </div>
 
@@ -187,7 +187,7 @@
       <strong>Collaborate and Learn</strong>
     </h5>
     <p class="text-center">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci enim, posuere sed tincidunt et, pellentesque eget mi.
+    With Grudemy, you can share, work and succeed with learners just like you. Meet people who are very skillful.
     </p>
   </div>
 </div>
@@ -201,9 +201,7 @@
 					<div class="col-lg-12 d-flex flex-row about-info">
 					<div class="col-lg-6">
 					<h3 class="tittle text-left mb-lg-5 mb-3">Share, work and succeed with learners just like you.</h3>
-					<p class="my-xl-4 my-lg-3 my-md-4 my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
-						dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-						book.
+					<p class="my-xl-4 my-lg-3 my-md-4 my-3">Grudemy allows you to share ideas and study resources as well as work on projects with classmates or colleagues around the world.  With Grudemy, you can share, work and succeed with learners just like you. Meet people who are very skillful.
 					</p>
 
 					<button type="button" class="btn btn-primary btn-lg float-left">Get Started</button>
