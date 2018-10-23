@@ -1,19 +1,19 @@
 # NaijaHacks Hackathon 2018
-Project - Grudemy
+**Project - Grudemy**
 A simple application that can be used to find a study group/tutor near you<br/>
-Team name<br/>
+**Team name**<br/>
 LILA<br/>
 
-Team members(name, email)<br/>
+**Team members**(name, email)<br/>
 Lawrence Onah ernestcleverest@gmail.com<br/>
 Ify Nwabuokei ifeanyichukwunwabuokei@gmail.com<br/>
 Austin Okorie austinugo200@gmail.com<br/>
-Sector<br/>
+**Sector**<br/>
 Education<br/>
 
 Problem<br/>
 Proposed Solution<br/>
-Proposed Stack<br/>
+**Proposed Stack**<br/>
 Language: Html, Css, Javascript<br/>
 Framework: Vue Js, Bootstrap<br/>
 Database: Firebase<br/>
