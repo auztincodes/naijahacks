@@ -160,7 +160,7 @@
   <div class="container text-center pt-5">
 <div class="row ">
 	<div class="col-md-1"></div>
-  <div class=" mb-4 col-md-3 effect1 py-5 mx-4">
+  <div class=" mb-5 col-md-3 effect1 py-5 mx-4">
     <img src="../assets/images/file.png" alt="" class="mb-4 tools-icon " />
     <h5>
       <strong>Find Study Group</strong>
@@ -171,7 +171,7 @@
 
   </div>
 
-  <div class=" mb-4 col-md-3 effect1 py-5 mx-4">
+  <div class=" mb-5 col-md-3 effect1 py-5 mx-4">
     <img src="../assets/images/connect.png" alt="" class="mb-4 tools-icon" />
     <h5>
       <strong>Join a Group</strong>
@@ -181,7 +181,7 @@
     </p>
   </div>
 
-  <div class=" mb-4 col-md-3 effect1 py-5 mx-4">
+  <div class=" mb-5 col-md-3 effect1 py-5 mx-4">
     <img src="../assets/images/chat.png" alt="" class="mb-4 tools-icon" />
     <h5>
       <strong>Collaborate and Learn</strong>
