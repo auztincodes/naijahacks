@@ -202,7 +202,7 @@ h5.pricing-title label {
 
 /* register */
 .modal-body h5 {
-    color: #22a6f5;
+    color: #5AD147;
     font-size: 25px;
     font-weight: 500;
 }
@@ -590,7 +590,7 @@ p.movetxt {
 }
 
 .search-agile input[type="submit"]:hover {
-    background: #000;
+    background: #5AD147;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     transition: 0.5s all;
